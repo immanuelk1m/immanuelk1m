@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: "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"
+          GITHUB_TOKEN: "11AXMYFPA0zun0rULEU214_x9tSb9roW1n9PDAlPz0NP29vJQgWctHn8VCfne29yIUWMLITUHOI84hWcRI"
           USERNAME: "immanuelk1m"
       - name: Commit & Push
         run: |
