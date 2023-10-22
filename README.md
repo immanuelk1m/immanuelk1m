@@ -4,8 +4,9 @@
 #### Languages
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
-<img alt="Python" src ="https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img alt="cpp" src ="https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
+<img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 
 
 #### ML/DL
@@ -33,6 +34,13 @@
 - **Build Trading System using C++**
   
 [![Immanuelk1m's GitHub stats](https://github-readme-stats.vercel.app/api?username=immanuelk1m)](https://github.com/anuraghazra/github-readme-stats)
+
+### Blogs
+<a href="https://velog.io/@immanuelk1m"><img alt="velog" src ="https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/>
+
+<a href="https://blog.naver.com/kse0119"><img alt="naver" src ="https://img.shields.io/badge/naver-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"/>
+
+
 
 <!--
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
