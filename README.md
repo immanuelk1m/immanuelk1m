@@ -1,5 +1,5 @@
 # Why not Change the world?
-세상 좀 바꿔보자.
+태어난 김에 세상 좀 바꿔보자.
 
 ## Skills
 #### Languages
