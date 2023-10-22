@@ -10,8 +10,12 @@
 
 
 #### ML/DL
+<img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
 
-#### Tools and Tech
+<img alt="scikitlearn" src ="https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img alt="pytorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
+
 
 ## Finance Project
 - [**KOSPI Fear & Greed Website**](https://kospi-fear-greed-index.co.kr/)
