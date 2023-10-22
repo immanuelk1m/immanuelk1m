@@ -1,5 +1,16 @@
-# What after 11111111 + 1 ??
-## 작은 변화로 세상을 바꾸는 개발자
+# Why not Change the world?
+
+## Skills
+#### Languages
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
+<img alt="Python" src ="https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+
+
+#### ML/DL
+
+#### Tools and Tech
 
 ## Finance Project
 - [**KOSPI Fear & Greed Website**](https://kospi-fear-greed-index.co.kr/)
