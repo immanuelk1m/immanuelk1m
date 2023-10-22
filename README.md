@@ -21,6 +21,7 @@
 ## Finance Project
 - [**KOSPI Fear & Greed Website**](https://kospi-fear-greed-index.co.kr/)
 - **Crypto Market Pairs Trading Bot**
+- **Prediction Crypto Market Volatility using NearestNeighbors & DL**
 - **Analysis of Skewness Volatility Phenomenon in High-Volume US Stocks**
 - **Analysis of Correlation between EPS NTM and Stock Prices**
 - **Identification of Optimal Timing for Stock Purchases through Price and Volume Analysis**
