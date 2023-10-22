@@ -34,7 +34,7 @@
 ## Side Project
 - **Startup Artause Web Dev** 
 - **당근마켓 & 번개장터 Price Pricition & Arbitrage Strategy** 
-- **stt & GPT 시각장애인을 위한 학습 서비스 개발**
+- **stt & GPT 청각 장애인을 위한 학습 서비스 개발**
 - **Build Trading System using C++**
   
 [![Immanuelk1m's GitHub stats](https://github-readme-stats.vercel.app/api?username=immanuelk1m)](https://github.com/anuraghazra/github-readme-stats)
