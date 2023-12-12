@@ -26,7 +26,6 @@
 - **Performance based on Brokerage Reports**
 - **NCAV Strategy in the KOSPI Stock Market**
 
-### 
 
 ## Side Project
 - **Startup Artause Web Dev** 
@@ -36,6 +35,16 @@
   
 [![Immanuelk1m's GitHub stats](https://github-readme-stats.vercel.app/api?username=immanuelk1m)](https://github.com/anuraghazra/github-readme-stats)
 
-### Blogs
+## Blogs
 [![velog](https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@immanuelk1m)
 [![naver](https://img.shields.io/badge/naver-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/kse0119)
+
+## Teams
+- **2023 대경권 해커톤 드림랜드톤 참여 Web / AI Dev** (2023.07.26 ~ 2023.07.29)
+- **국내 가상자산 투자자 보호를 위한 변동성 예측 ML 연구** (2023.07.01 ~ )
+- **공연 정보 서비스 Artause Web / AI Dev** (2023.10.01 ~ )
+
+## Prices
+
+- **HGU SW 융합연구 공모전 최우수상**
+- **2023 대경권 AI 프로그래밍 경진대회 대상** 
