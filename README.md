@@ -16,7 +16,7 @@
 - **암호화폐 시장 페어 트레이딩 봇** (2022)
 - **한국 커뮤니티 감정 분석을 통한 주식시장 변동성 예측** (2022)
 - **NearestNeighbors & DL을 활용한 암호화폐 시장 변동성 예측** (2023)
-- [**KOSPI Fear & Greed Index**](https://kospi-fear-greed-index.co.kr/) (2023~)
+- [**KOSPI Fear & Greed Index**](https://kospi-fear-greed-index.co.kr/) (2022~)
 
 
 ### 사이드 프로젝트
